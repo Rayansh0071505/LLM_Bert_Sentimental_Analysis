@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Amit/Desktop/others/Data%20science/Projects/Fine-Tuning-Large-Model/mlruns/0/cc1d4028b13446cfa201461aaef17c66/artifacts
+end_time: 1703574216386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc1d4028b13446cfa201461aaef17c66
+run_name: distilbert-base-uncased-lora-text-classification
+run_uuid: cc1d4028b13446cfa201461aaef17c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703574137474
+status: 3
+tags: []
+user_id: Rayansh
